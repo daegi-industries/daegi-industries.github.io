@@ -1,0 +1,49 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = ""
+weight = 1
+
+[[main]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Vendors"
+url = "vendors/"
+weight = 3
+
+[[main]]
+name = "Clients"
+url = "clients/"
+weight = 4
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 5
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[footer]]
+name = "Vendors"
+url = "vendors/"
+weight = 3
+
+[[footer]]
+name = "Clients"
+url = "clients/"
+weight = 4
+
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 5

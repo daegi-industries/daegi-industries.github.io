@@ -1,0 +1,49 @@
+############# French navigation ##############
+
+# main menu
+[[main]]
+name = "홈"
+url = ""
+weight = 1
+
+[[main]]
+name = "대기실업"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "제조사"
+url = "vendors/"
+weight = 3
+
+[[main]]
+name = "고객사"
+url = "clients/"
+weight = 4
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 5
+
+
+# footer menu
+[[footer]]
+name = "대기실업"
+url = "about/"
+weight = 2
+
+[[footer]]
+name = "제조사"
+url = "vendors/"
+weight = 3
+
+[[footer]]
+name = "고객사"
+url = "clients/"
+weight = 4
+
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 5
