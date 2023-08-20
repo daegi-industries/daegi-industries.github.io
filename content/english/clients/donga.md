@@ -2,9 +2,9 @@
 title: "Dong-a "
 description: ""
 draft: false
-image : "images/clients/dong-a.png"
+image : "images/clients/donga.png"
 bg_image: "images/feature-bg.jpg"
-category: [] 
+category: [ ] 
 information:
 ---
 
